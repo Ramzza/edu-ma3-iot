@@ -1,32 +1,6 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+ardu_spi_slave/.vscode/c_cpp_properties.json
+ardu_spi_slave/.vscode/arduino.json
+node_spi_master/.vscode/arduino.json
+node_spi_master/.vscode/c_cpp_properties.json
+node_spi_master/.vscode/settings.json
